@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1d18b5b-7ae7-4c9b-a6fe-e74eabc06483" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManagementSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccountType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecurityQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecurityQuestionsOptions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utility.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1d18b5b-7ae7-4c9b-a6fe-e74eabc06483" name="Changes" comment="Final Version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,11 +71,24 @@
       <workItem from="1701791655287" duration="48967000" />
       <workItem from="1701958458714" duration="24559000" />
       <workItem from="1701997387223" duration="2177000" />
-      <workItem from="1702419021299" duration="59609000" />
+      <workItem from="1702419021299" duration="60808000" />
     </task>
+    <task id="LOCAL-00001" summary="Final Version">
+      <option name="closed" value="true" />
+      <created>1703248815211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703248815211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Version" />
   </component>
 </project>
