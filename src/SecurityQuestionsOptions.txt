@@ -1,0 +1,20 @@
+Favorite Teacher's Name,^[A-Za-z]+(?: [A-Za-z]+)?$
+First Pet's Name,^[A-Za-z]+(?: [A-Za-z]+)?$
+City of Birth,^[A-Za-z]+(?: [A-Za-z]+)?$
+Favorite Movie,^[A-Za-z0-9]+(?: [A-Za-z0-9]+)?$
+Childhood Best Friend,^[A-Za-z]+(?: [A-Za-z]+)?$
+Name of First Car,^[A-Za-z0-9]+(?: [A-Za-z0-9]+)?$
+Favorite Sports Team,^[A-Za-z]+(?: [A-Za-z]+)?$
+Mother's Maiden Name,^[A-Za-z]+(?: [A-Za-z]+)?$
+Favorite Food,^[A-Za-z]+(?: [A-Za-z]+)?$
+Dream Job,^[A-Za-z]+(?: [A-Za-z]+)?$
+Childhood Nickname,^[A-Za-z]+(?: [A-Za-z]+)?$
+Favorite Color,^[A-Za-z]+(?: [A-Za-z]+)?$
+Name of Elementary School,^[A-Za-z0-9]+(?: [A-Za-z0-9]+)?$
+Year of High School Graduation,^[0-9]{4}$
+Favorite Season,^[A-Za-z]+(?: [A-Za-z]+)?$
+First Job Title,^[A-Za-z]+(?: [A-Za-z]+)?$
+Favorite Restaurant,^[A-Za-z0-9]+(?: [A-Za-z0-9]+)?$
+Favorite Historical Figure,^[A-Za-z]+(?: [A-Za-z]+)?$
+Most Hated Vegetable,^[A-Za-z]+(?: [A-Za-z]+)?$
+Favorite TV Show,^[A-Za-z0-9]+(?: [A-Za-z0-9]+)?$
